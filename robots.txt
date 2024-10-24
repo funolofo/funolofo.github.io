@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://funolofo.github.io/sitemap/sitemap_index.funolofo
+Sitemap: https://funolofo.github.io/bKZ/sitemap_index.funolofo
+Sitemap: https://funolofo.github.io/ImF/sitemap_index.funolofo
+Sitemap: https://funolofo.github.io/LwJ/sitemap_index.funolofo
+Sitemap: https://funolofo.github.io/beT/sitemap_index.funolofo
+Sitemap: https://funolofo.github.io/AEx/sitemap_index.funolofo
+Sitemap: https://funolofo.github.io/Clm/sitemap_index.funolofo
+Sitemap: https://funolofo.github.io/aFA/sitemap_index.funolofo
+Sitemap: https://funolofo.github.io/qGU/sitemap_index.funolofo
+Sitemap: https://funolofo.github.io/wEl/sitemap_index.funolofo
+Sitemap: https://funolofo.github.io/Wan/sitemap_index.funolofo
+Sitemap: https://funolofo.github.io/LUN/sitemap_index.funolofo
+Sitemap: https://funolofo.github.io/DYU/sitemap_index.funolofo
+Sitemap: https://funolofo.github.io/xhf/sitemap_index.funolofo
+Sitemap: https://funolofo.github.io/bYg/sitemap_index.funolofo
+Sitemap: https://funolofo.github.io/com/sitemap_index.funolofo
+Sitemap: https://funolofo.github.io/YCQ/sitemap_index.funolofo
+Sitemap: https://funolofo.github.io/DsQ/sitemap_index.funolofo
+Sitemap: https://funolofo.github.io/nWg/sitemap_index.funolofo
+Sitemap: https://funolofo.github.io/jpX/sitemap_index.funolofo
+Sitemap: https://funolofo.github.io/jMR/sitemap_index.funolofo
